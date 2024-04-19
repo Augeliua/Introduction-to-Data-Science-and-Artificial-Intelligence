@@ -7,7 +7,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 With the prevalence of diabetes, our project's problem definition focuses on utilising machine learning methods to forecast the causal factors contributing to the rise in diabetes. By doing so, we aim to empower health professionals, government entities, and individuals with the knowledge needed to proactively prevent diabetes onset. 
 
 # EXPLORATORY DATA ANALYSIS <br>
-For exploratory data analysis, we plotted bar charts and calculated various coefficients to determine which variables are to be used in our machine learning models. 
+For exploratory data analysis, we plotted bar charts for visual representation and calculated various coefficients to determine which variables are to be used in our machine learning models. 
 - Point-Biserial Correlation was used to measure correlation of numerical variables with DIABETES. 
 - Rank-Biserial Correlation was used to measure correlation of ordinal variables with DIABETES. 
 - Phi Coefficient was used to measure the correlation of dichotomous variables with DIABETES.

@@ -54,5 +54,5 @@ Emre, A. (2022, January 4). BRFSS 2020 survey data. Kaggle. https://www.kaggle.c
 
 Behavioral Risk Factor Surveillance System. (2021, August 6). LLCP 2020 Codebook Report. https://www.cdc.gov/brfss/annual_data/2020/pdf/codebook20_llcp-v2-508.pdf <br>
 
-Saeedi, P., Petersohn, I., Salpea, P., Malanda, B., Karuranga, S., Unwin, N., Colagiuri, S., Guariguata, L., Motala, A. A., Ogurtsova, K., Shaw, J. E., Bright, D., Williams, R., & IDF Diabetes Atlas Committee. (n.d.). Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation <br> Diabetes Atlas, 9th edition. Diabetes research and clinical practice. https://pubmed.ncbi.nlm.nih.gov/31518657/ <br>
+Saeedi, P., Petersohn, I., Salpea, P., Malanda, B., Karuranga, S., Unwin, N., Colagiuri, S., Guariguata, L., Motala, A. A., Ogurtsova, K., Shaw, J. E., Bright, D., Williams, R., & IDF Diabetes Atlas Committee. (n.d.). Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition. Diabetes research and clinical practice. https://pubmed.ncbi.nlm.nih.gov/31518657/ <br>
 

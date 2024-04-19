@@ -15,7 +15,7 @@ For exploratory data analysis, we plotted bar charts and calculated various coef
 # MACHINE LEARNING MODELS USED <br>
 - Random forest <br>
 - Support vector machine (SVM) <br>
-- Logistic regression 
+- Logistic regression <br>
 We also performed Synthetic Minority Over-sampling Technique (SMOTE) to address the class imbalance problem when using these models. <br>
 
 # CONCLUSION <br>

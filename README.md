@@ -15,7 +15,7 @@ For exploratory data analysis, we plotted bar charts and calculated various coef
 # MACHINE LEARNING MODELS USED <br>
 - Random forest <br>
 - Support vector machine (SVM) <br>
-- Logistic regression <br>
+- Logistic regression 
 We also performed Synthetic Minority Over-sampling Technique (SMOTE) to address the class imbalance problem when using these models. <br>
 
 # CONCLUSION <br>
@@ -38,7 +38,7 @@ To remedy the limited effectiveness of the current model, perhaps future impleme
 
 
 # INDIVIDUAL CONTRIBUTIONS <br>
-data cleaning - Group <br>
+Data cleaning - Group <br>
 EDA - bar-plotting - Timothy <br>
 EDA - rank-biserial correlation, point-biserial correlation, phi coefficient calculations - Ziying <br>
 ML - random forest & SMOTE - Angelina <br>

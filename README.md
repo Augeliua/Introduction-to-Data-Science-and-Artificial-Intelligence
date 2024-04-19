@@ -1,6 +1,6 @@
-# SC1015-Team-8
+### SC1015-Team-8
 
-ABOUT <br>
+# ABOUT <br>
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We focused on the USA for our project, utilising the 2020 Behavioral Risk Factor Surveillance System (BRFSS) Survey Data. We also referred to the LLCP 2020 Codebook Report for a detailed description of the dataset.
 
 PROBLEM DEFINITION  <br>

@@ -16,6 +16,7 @@ For exploratory data analysis, we plotted bar charts for visual representation a
 - Random forest <br>
 - Support vector machine (SVM) <br>
 - Logistic regression <br>
+
 We also performed Synthetic Minority Over-sampling Technique (SMOTE) to address the class imbalance problem when using these models. <br>
 
 # CONCLUSION <br>

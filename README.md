@@ -21,13 +21,13 @@ We also performed Synthetic Minority Over-sampling Technique (SMOTE) to address 
 
 # CONCLUSION <br>
 - We recommend using random forest. 
-In general, this model aggregates the outputs of multiple decision trees to make predictions, making it robust to outliers, suitable for non-linear data, and less prone to overfitting. It also performs efficiently on large datasets and often achieves higher accuracy as opposed to other classification algorithms.
+- In general, this model aggregates the outputs of multiple decision trees to make predictions, making it robust to outliers, suitable for non-linear data, and less prone to overfitting. It also performs efficiently on large datasets and often achieves higher accuracy as opposed to other classification algorithms.
 
-This is evident when comparing it to other algorithms like Support Vector Machine (SVM) and Logistic Regression, as it consistently achieves higher scores for accuracy, mean AUC, and mean F1 score. This indicates that it is the best-performing model among the three, striking a balance between precision and recall.
+- This is evident when comparing it to other algorithms like Support Vector Machine (SVM) and Logistic Regression, as it consistently achieves higher scores for accuracy, mean AUC, and mean F1 score. This indicates that it is the best-performing model among the three, striking a balance between precision and recall.
 
-One issue we found with our random forest model was its high false negative rate of 0.40 and an accuracy of around 70%. We suspect this may be due to our use of SMOTE (Synthetic Minority Over-sampling Technique) to address the under-represented minority class. We believe this contributed to a low F1 score in our initial random forest model without using SMOTE. While SMOTE is intended to balance the class distribution, it may not have perfectly over-sampled the minority class.
+- One issue we found with our random forest model was its high false negative rate of 0.40 and an accuracy of around 70%. We suspect this may be due to our use of SMOTE (Synthetic Minority Over-sampling Technique) to address the under-represented minority class. We believe this contributed to a low F1 score in our initial random forest model without using SMOTE. While SMOTE is intended to balance the class distribution, it may not have perfectly over-sampled the minority class.
 
-To remedy the limited effectiveness of the current model, perhaps future implementations can try to use other methods when handling the under-represented classes such as by under-sampling the majority class instead.
+- To remedy the limited effectiveness of the current model, perhaps future implementations can try to use other methods when handling the under-represented classes such as by under-sampling the majority class instead.
 
 
 # WHAT DID WE LEARN FROM THIS PROJECT? <br>

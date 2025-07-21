@@ -2,6 +2,7 @@
 
 # ABOUT <br>
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We focused on the USA for our project, utilising the 2020 Behavioral Risk Factor Surveillance System (BRFSS) Survey Data. We also referred to the LLCP 2020 Codebook Report for a detailed description of the dataset.
+https://youtu.be/OtxO8XZGec4 
 
 # PROBLEM DEFINITION  <br>
 With the prevalence of diabetes, our project's problem definition focuses on utilising machine learning methods to forecast the causal factors contributing to the rise in diabetes. By doing so, we aim to empower health professionals, government entities, and individuals with the knowledge needed to proactively prevent diabetes onset. 
